@@ -1,0 +1,11 @@
+<nav class="navbar">
+  <h1 class="logo">🔥 Blue Flame</h1>
+  
+  <div class="menu">
+    <a href="#">Home</a>
+    <a href="#">Games</a>
+    <a href="#">AI Tools</a>
+    <a href="#">About</a>
+    <a href="#" class="btn">Get Started</a>
+  </div>
+</nav>
